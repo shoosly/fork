@@ -8,7 +8,7 @@ public class Main {
 
         for (int i = 1; i <= 5; i++) {
              i+=i;
-             int j =1;
+
             System.out.println("i = " + i);
         }
     }
